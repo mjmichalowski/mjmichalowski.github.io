@@ -30,4 +30,4 @@ The following [report](various/report_jinr.pdf) was written at the end of a shor
 
 ### Contact
 
-You can contact my directly on marekjmichalowski@gmail.com or by calling +44 7908878831.
+You can contact me directly on marekjmichalowski@gmail.com or by calling +44 7908878831.
