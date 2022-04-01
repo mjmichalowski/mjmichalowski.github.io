@@ -18,6 +18,8 @@ Below, you can find some of my work in Python and Matlab, as well as articles an
 
 2. [_Bouncy Ball_](https://github.com/mjmichalowski/mjmichalowski.github.io/blob/main/python/bouncy_ball.py) - blah
 
+3.  
+
 ### Equipment Database Guide for Joint Institute for Nuclear Research in Dubna
 
 The following [_report_](various/report_jinr.pdf) was written at the end of a short project with the Joint Institute for Nuclear Research (JINR) in Dubna. The overarching aim of the project is to build an efficient Oracle-based equipment database, similar to one employed in the ALICE experiment, which would help facilitate research both in JINR and its international partners. The main portion of our work was to write a thorough guide to the workings of the database which could be used by the researchers and technicians. The report itself summarises this process and showcases the part of the guide written in the appendix.
@@ -28,6 +30,3 @@ The following [_report_](various/report_jinr.pdf) was written at the end of a sh
 
 ### [Essay on Use of Perovskite in Solar Panels](various/Essay_Solar_Panels.pdf)
 
-### Contact
-
-You can contact me directly on marekjmichalowski@gmail.com or by calling +44 7908878831.
