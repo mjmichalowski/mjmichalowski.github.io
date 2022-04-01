@@ -4,8 +4,6 @@ Below, you can find some of my work in Python and Matlab, as well as articles an
 
 ### Matlab Projects
 
-There are three of my Matlab projects you can view on this website. They are all described by a report which explains the aim, application and outcome (code provided within):
-
 1. [_Recurring Digits Finder_](matlab/project_1/Recurring_Digits_Report.pdf) - this project is based on number theory, specfically the decimal expansions of fractions. It aimed to quickly and efficiently find their repeating digits and the period length.
 2. [_Fox and Rabbit Problem_](matlab/project_2/Fox_and_Rabbit_Report.pdf) - this project uses Matlab to solve a system of coupled PDEs. The scenario describes a rabbit running towards its burrow and a fox which is trying to catch the rabbit before it reaches safety, while avoiding obstacles on the way. The motion of the fox is deeply connected with the position of the rabbit and the barrier at any given point. The application of Matlab here can be widely used for many real-world dynamic scenarios.
 3. [_Big Data Analysis_](matlab/project_3/Project_3_Report.pdf) - this project employs some of the techniques useful in analysing big data sets. It uses a large, imaginary set containing information (date, price, variety etc.) about natural products in order to present some key facts which could be used to make business decisions in this scenario. Naturally, these techniques are highyl applicable in both scientific and business analysis.
@@ -18,9 +16,11 @@ There are three of my Matlab projects you can view on this website. They are all
   - display multiple plots
   - save the data and plots to a desired location.
 
-2. 
+2. [_Bouncy Ball_](https://github.com/mjmichalowski/mjmichalowski.github.io/blob/main/python/bouncy_ball.py) - blah
 
 ### Equipment Database Guide for Joint Institute for Nuclear Research in Dubna
+
+The following [report](various/report_jinr.pdf) was written at the end of a short project with the Joint Institute for Nuclear Research (JINR) in Dubna. The overarching aim of the project is to build an efficient Oracle-based equipment database, similar to one employed in the ALICE experiment, which would help facilitate research both in JINR and its international partners. The main portion of our work was to write a thorough guide to the workings of the database which could be used by the researchers and technicians. The report itself summarises this process and showcases the part of the guide written in the appendix.
 
 ### Laboratory Work
 
