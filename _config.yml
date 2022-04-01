@@ -3,10 +3,7 @@ theme: jekyll-theme-minimal
 title: M. J. Michałowski
 author: M. J. Michałowski
 
-description: Epsilon
+description: Penultimate Year MMath&Phys Mathematics and Physics Student
 
-navbar-links:
-  Resources:
-    - LinkedIn: "https://uk.linkedin.com/in/marek-j-michalowski"
 
-avatar: "me.jpg"
+logo: "me.jpg"
