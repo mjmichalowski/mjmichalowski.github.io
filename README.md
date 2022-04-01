@@ -20,7 +20,7 @@ Below, you can find some of my work in Python and Matlab, as well as articles an
 
 3. [_Leitner Flashcard System_](https://github.com/mjmichalowski/mjmichalowski.github.io/blob/main/python/leitner-flashcards/leitner_flashcards.py) 
 
-4. [_Markov Chains Text Generator_]()
+4. [_Markov Chains Text Generator_](https://github.com/mjmichalowski/mjmichalowski.github.io/tree/main/python/markov_chains)
 
 ### Equipment Database Guide for Joint Institute for Nuclear Research in Dubna
 
