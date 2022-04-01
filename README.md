@@ -23,8 +23,11 @@ Below, you can find some of my work in Python and Matlab, as well as articles an
 The following [report](various/report_jinr.pdf) was written at the end of a short project with the Joint Institute for Nuclear Research (JINR) in Dubna. The overarching aim of the project is to build an efficient Oracle-based equipment database, similar to one employed in the ALICE experiment, which would help facilitate research both in JINR and its international partners. The main portion of our work was to write a thorough guide to the workings of the database which could be used by the researchers and technicians. The report itself summarises this process and showcases the part of the guide written in the appendix.
 
 ### Laboratory Work
+1. [_Measuring Galactic Rotation Curve_](various/Galactic_Hydrogen.pdf)
+2. [_Measuring Drag Force Acting on Free-Falling Objects_](various/Drag_Forces_Michalowski.pdf)
 
-### Essay on Use of Perovskite in Solar Panels
+### [Essay on Use of Perovskite in Solar Panels](various/Essay_Solar_Panels.pdf)
+
 
 
 
