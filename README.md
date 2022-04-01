@@ -10,13 +10,13 @@ Below, you can find some of my work in Python and Matlab, as well as articles an
 
 ### Python Projects
 
-1. [_Finding the Width and Mass of a Z-Boson_](https://github.com/mjmichalowski/mjmichalowski.github.io/blob/main/python/z_boson_gui.py) - this script analyses data sets of decays across differing energies. It assumes the process can be described as a first order Feynman diagram of an electron-positron pair annihilating into a Z-Boson, which then decays into a new particle-antiparticle pair. Notably, it uses _tkinter_ package to display a GUI from which the user can explore different options and perform the analysis. Object-oriented programming is employed to simplify the construction of the main loop of the GUI. The program is quite versatile in that it allows the user to:
+1. [_Finding the Width and Mass of a Z-Boson_](https://github.com/mjmichalowski/mjmichalowski.github.io/tree/main/python/z-boson) - this script analyses data sets of decays across differing energies. It assumes the process can be described as a first order Feynman diagram of an electron-positron pair annihilating into a Z-Boson, which then decays into a new particle-antiparticle pair. Notably, it uses _tkinter_ package to display a GUI from which the user can explore different options and perform the analysis. Object-oriented programming is employed to simplify the construction of the main loop of the GUI. The program is quite versatile in that it allows the user to:
   - change the decay products
   - provide external data sets using finder
   - display multiple plots
   - save the data and plots to a desired location.
 
-2. [_Bouncy Ball_](https://github.com/mjmichalowski/mjmichalowski.github.io/blob/main/python/bouncy_ball.py) - blah
+2. [_Bouncy Ball_](https://github.com/mjmichalowski/mjmichalowski.github.io/blob/main/python/bouncy-ball/bouncy_ball.py) - blah
 
 3.  
 
