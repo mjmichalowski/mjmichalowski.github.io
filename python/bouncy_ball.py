@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 ________________TITLE________________
-PHYS20161 - Assignment 1 - Bouncy Ball
+             Bouncy Ball
 -------------------------------------
 This python script evaluates the bouncy ball problem:
 A ball starts at a given height and is allowed to fall freely.
@@ -22,7 +22,7 @@ At the end the script shows the calculated values and performs any additional
 operations as decided by the user in the customisation settings.
 
 Last Updated: 22/10/21
-@author: M. J. Michałowski UID: 10450192
+@author: M. J. Michałowski
 """
 
 from math import log, floor, sqrt
