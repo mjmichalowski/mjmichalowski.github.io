@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 ________________TITLE________________
-PHYS20161 - Assignment 2 - Z-Boson
+               Z-Boson
 -------------------------------------
 This Python script accepts decay data for reactions (assumed to be
 described by a first-order Feynman diagram) in which Z Boson is
@@ -32,7 +32,7 @@ times without the program closing.
 
 
 Last Updated: 14/12/21
-@author: M. J. Michałowski UID: 10450192
+@author: M. J. Michałowski
 """
 
 from re import match
