@@ -18,7 +18,9 @@ Below, you can find some of my work in Python and Matlab, as well as articles an
 
 2. [_Bouncy Ball_](https://github.com/mjmichalowski/mjmichalowski.github.io/blob/main/python/bouncy-ball/bouncy_ball.py) - blah
 
-3.  
+3. [_Leitner Flashcard System_](https://github.com/mjmichalowski/mjmichalowski.github.io/blob/main/python/leitner-flashcards/leitner_flashcards.py) 
+
+4. [_Markov Chains Text Generator_]()
 
 ### Equipment Database Guide for Joint Institute for Nuclear Research in Dubna
 
