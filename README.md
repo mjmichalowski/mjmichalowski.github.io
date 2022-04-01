@@ -12,6 +12,14 @@ There are three of my Matlab projects you can view on this website. They are all
 
 ### Python Projects
 
+1. _Finding the Width and Mass of a Z-Boson_ - this script analyses data sets of decays across differing energies. It assumes the process can be described as a first order Feynman diagram of an electron-positron pair annihilating into a Z-Boson, which then decays into a new particle-antiparticle pair. Notably, it uses _tkinter_ package to display a GUI from which the user can explore different options and perform the analysis. The program is quite versatile in that it allows the user to:
+  - change the decay products
+  - provide external data sets using finder
+  - display multiple plots
+  - save the data and plots to a desired location.
+Object-oriented programming is employed to simplify the construction of the main loop of the GUI. [Click here] (python/z_boson_gui.py)
+2. 
+
 ### Equipment Database Guide for Joint Institute for Nuclear Research in Dubna
 
 ### Laboratory Work
@@ -46,7 +54,6 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-![Image](asd.jpg)
 
 ### Contact
 
