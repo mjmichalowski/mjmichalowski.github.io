@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
+
 title: M. J. Michałowski
-avatar: me.jpg
+author: M. J. Michałowski
+
 description: Epsilon
+
+avatar: "/assets/me.jpg"
