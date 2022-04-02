@@ -29,9 +29,9 @@ Below, you can find some of my work in Python and Matlab, as well as articles an
 The following [_report_](various/report_jinr.pdf) was written at the end of a short project with the Joint Institute for Nuclear Research (JINR) in Dubna. The overarching aim of the project is to build an efficient Oracle-based equipment database, similar to one employed in the ALICE experiment, which would help facilitate research both in JINR and its international partners. The main portion of our work was to write a thorough guide to the workings of the database which could be used by the researchers and technicians. The report itself summarises this process and showcases the part of the guide written in the appendix.
 
 ### Laboratory Work
-1. [_Measuring Galactic Rotation Curve_](various/Galactic_Hydrogen.pdf)
+1. [_Measuring Galactic Rotation Curve_](various/Galactic_Hydrogen.pdf) - a report on an experiment using the 7m Jodrell Bank telescope to measure the Doppler shift in the wavelength of emmisions from the hyperfine transition in neutral atomic Hydrogen clouds in the Milky Way. From this data, the rotational velocity could be measured for clouds at different radii from the centre of the galaxy (with some extra restrictions on the angles at which observation is useful for this method). Hence, a rotation curve can be plotted and compared with the Keplerian model, providing further evidence for the existance of dark matter.
 
-2. [_Measuring Drag Force Acting on Free-Falling Objects_](various/Drag_Forces_Michalowski.pdf)
+2. [_Measuring Drag Force Acting on Free-Falling Objects_](various/Drag_Forces_Michalowski.pdf) - a report on an experiment trying to determine the coefficient of drag for two different shapes by measuring their behaviour in free-fall at differing masses. Even with heavy limitations due to no access to proper laboratory equipment and setting, the results are still very close to what would have been expected from the shapes selected. However, there was an interesting observation that if the falling object is porous, it seems to lower their coefficient of drag compared to what would be expected.
 
 ### [Essay on Use of Perovskite in Solar Panels](various/Essay_Solar_Panels.pdf)
 
