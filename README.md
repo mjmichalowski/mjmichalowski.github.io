@@ -35,3 +35,5 @@ The following [_report_](various/report_jinr.pdf) was written at the end of a sh
 
 ### [Essay on Use of Perovskite in Solar Panels](various/Essay_Solar_Panels.pdf)
 
+{% include linkedin.html %}
+
