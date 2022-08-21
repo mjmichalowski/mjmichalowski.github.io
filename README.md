@@ -1,4 +1,4 @@
-## Welcome to My Portfolio!
+## Welcome to my portfolio!
 
 Below, you can find some of my work in Python and Matlab, as well as articles and reports I have written. You can also access my CV [_here_](various/michalowski_cv.pdf).
 
